@@ -1,1 +1,13 @@
-/*# sourceMappingURL=global.css.map */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+
+}
+header .div1 a {
+  text-decoration: none;
+  color: #636060;
+  margin-left: 2em;
+  size: 17px;
+}/*# sourceMappingURL=global.css.map */

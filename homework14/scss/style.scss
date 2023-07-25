@@ -1,9 +1,18 @@
-.div1{
-    a{
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  .div1 {
 
 
-    text-decoration: none;
-    color: #636060;
-  margin-left: 2em;
-  size: 17px;    }
+    a {
+
+
+      text-decoration: none;
+      color: #636060;
+      margin-left: 2em;
+      size: 17px;
+    }
+  }
 }
